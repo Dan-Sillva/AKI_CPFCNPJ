@@ -66,4 +66,4 @@ class GeradorCpfCnpj {
     };
 }
 
-export default GeradorCpfCnpj
+module.exports = GeradorCpfCnpj
