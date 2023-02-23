@@ -66,5 +66,5 @@ class GeradorCpfCnpj {
     };
 }
 
-const aki = GeradorCpfCnpj()
+const aki = new GeradorCpfCnpj()
 module.exports = aki
